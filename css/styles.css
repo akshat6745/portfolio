@@ -1,0 +1,182 @@
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  margin: 100px 0;
+
+}
+
+.tab{
+  background-color: #E4F9F5;
+
+}
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 40px;
+  padding: 30px;
+}
+
+.intro {
+  margin: auto;
+  width: 30%;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.Profile-img {
+  border-radius: 10%;
+  height: 300px;
+  width: 300px;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  /* color: #FF7F7F; */
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+
+h2 {
+  color: #66BFBF;
+  /* color:  #FF7F7F; */
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: 900;
+  margin-top: 0;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  color: #40514E;
+  font-weight: bold;
+  line-height: 2;
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  left: 250px;
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.heading-desc {
+  position: relative;
+  top: 48px;
+}
+
+.skill-row {
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+.hobby{
+  text-align: center;
+}
+
+.hobby-col{
+  margin:30px 10px 30px 0;
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+}
+.football{
+  width: 65%;
+margin: auto;
+display: block;
+border-radius: 30px;
+}
+.anime{
+  width: 76%;
+}
+.gdesign{
+  width: 76%
+}
+.chess {
+  border-radius: 30%;
+  float: left;
+  margin-right: 30px;
+  width: 35%;
+}
+
+.nsut{
+
+    border-radius: 30%;
+    float:right;
+    margin-left: 30px;
+    width: 35%;
+
+
+}
+.app-development {
+  float: right;
+  width: 25%;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  color: grey;
+  margin: 100px auto;
+  width: 4%;
+}
+
+.contact-message{
+  margin:40px auto 60px;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.1Rem;
+  margin:20px 10px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+/* online button generator "https://css3buttongenerator.com/" */
+.btn {
+  background: #11cdd4;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px;
+  border: solid #337FED 1px;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background:#30e3cb;
+  border: solid #337FED 1px;
+  text-decoration: none;
+}
