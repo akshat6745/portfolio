@@ -6,13 +6,12 @@
 
 .middle-container {
   margin: 100px 0;
-
 }
 
-.tab{
+.tab {
   background-color: #E4F9F5;
-
 }
+
 .bottom-container {
   background-color: #66BFBF;
   margin-top: 40px;
@@ -95,44 +94,52 @@ p {
   text-align: left;
   width: 50%;
 }
-.hobby{
+
+.hobby {
   text-align: center;
 }
 
-.hobby-col{
-  margin:30px 10px 30px 0;
+.hobby-col {
+  margin: 30px 10px 30px 0;
   text-align: left;
   display: inline-block;
   width: 30%;
 }
-.football{
+
+.football {
   width: 65%;
-margin: auto;
-display: block;
-border-radius: 30px;
+  margin: auto;
+  display: block;
+  border-radius: 30px;
 }
-.anime{
+
+.anime {
   width: 76%;
 }
-.gdesign{
+
+.gdesign {
   width: 76%
 }
+
 .chess {
   border-radius: 30%;
   float: left;
   margin-right: 30px;
   width: 35%;
+  height: 60%;
 }
 
-.nsut{
-
-    border-radius: 30%;
-    float:right;
-    margin-left: 30px;
-    width: 35%;
-
-
+.Physics {
+  margin-top: 15px;
 }
+
+.nsut {
+  border-radius: 30%;
+  float: right;
+  margin-left: 30px;
+  width: 35%;
+}
+
 .app-development {
   float: right;
   width: 25%;
@@ -146,20 +153,22 @@ hr {
   width: 4%;
 }
 
-.contact-message{
-  margin:40px auto 60px;
+.contact-message {
+  margin: 40px auto 60px;
 }
 
 a {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
   font-size: 1.1Rem;
-  margin:20px 10px;
+  margin: 20px 10px;
   text-decoration: none;
 }
-a:hover{
-  color:#EAF6F6;
+
+a:hover {
+  color: #EAF6F6;
 }
+
 /* online button generator "https://css3buttongenerator.com/" */
 .btn {
   background: #11cdd4;
@@ -176,7 +185,7 @@ a:hover{
 }
 
 .btn:hover {
-  background:#30e3cb;
+  background: #30e3cb;
   border: solid #337FED 1px;
   text-decoration: none;
 }
